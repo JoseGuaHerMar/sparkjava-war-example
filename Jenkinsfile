@@ -23,6 +23,7 @@ pipeline {
                 sh '''
                pwd
                echo "hola"
+               echo "HEHEHA"
                 '''
             }
         }
